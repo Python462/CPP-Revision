@@ -1,0 +1,16 @@
+// inserting into a string
+#include <iostream>
+#include<conio.h>
+//#include<graphics>
+using namespace std;
+int main ()
+{
+	xy:
+ cout<<"Hello world\n";
+ getch();
+ //goto xy;
+system("cls");
+ cout<<"Testing";
+ getch();
+  return 0;
+}
